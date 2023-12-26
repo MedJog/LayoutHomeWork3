@@ -74,6 +74,13 @@
     line-height: normal;
     margin-bottom: 17px;
 }
+.main-content-buttons{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    gap: 72px;
+}
 .click-start{
     border-radius: 50px;
     border: none;
