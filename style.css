@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
 }
-
-span {
+.header-logo-text {
     color: #000;
     font-family: Gilroy-Bold;
     font-size: 24px;
@@ -11,28 +10,20 @@ span {
     font-weight: 400;
     line-height: normal;
 }
-
-b {
+.header-logo-text-orange {
     color: #F25822;
-    font-family: Gilroy-Bold;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
 }
 .header-nav{
-    padding-top: 51px;
-    padding-bottom: 51px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
-.header-link-home {
+.main-content{
+    padding-top: 49px;
+    padding-bottom: 162px;
+}
+.header-link-colored {
     color: #F25822;
-    font-family: Gilroy-SemiBold;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
 }
-
 .header-link {
     color: #000;
     font-family: Gilroy-Medium;
@@ -48,7 +39,7 @@ b {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-bottom: 17px;
+    margin-bottom: 17px;
 }
 .paragraph{
     color: #888;
@@ -57,9 +48,7 @@ b {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
-.main-content-buttons{
-    padding-top: 37px;
+    margin-bottom: 17px;
 }
 .click-start{
     border-radius: 50px;
@@ -75,7 +64,6 @@ b {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    
 }
 .click-watch{
     color: #AAA;
