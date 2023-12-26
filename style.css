@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.center{
+    padding-left: calc(50% - 1170px/2);
+    padding-right: calc(50% - 1170px/2);
+    } 
 .header-logo-text {
     color: #000;
     font-family: Gilroy-Bold;
