@@ -5,9 +5,16 @@
 
 @font-face {
     font-family: "Gilroy-Bold";
-    src: url("./GilroyBold.ttf") format("truetype");
+    src: url("../fonts/GilroyBold.ttf") format("truetype");
     font-style: normal;
     font-weight: 700;
+}
+@font-face { 
+    font-family: "Gilroy-Regular";
+    src: url("../fonts/GilroyRegular/GilroyRegular.eot");
+    src: url("../fonts/GilroyRegular/GilroyRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
 }
 
 .header {
